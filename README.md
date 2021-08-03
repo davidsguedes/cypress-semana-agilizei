@@ -37,4 +37,22 @@ npx cypress run
 ```
 npx cypress run --config viewportWidth=411,viewportHeight=823 
 ```
- 
+
+Sobre a aplicação:
+Site: https://devfinance-agilizei.netlify.app/
+
+Visão geral: A aplicação alvo do teste é um site de finanças, para inclusão de entradas (por exemplo salário) e saídas (por exemplo gastos).
+
+- O usuário pode realizar novos lançamentos através da opção "+ Nova Transação", onde visualiza um formulário com descrição, valor e data.
+
+![2 - inclusao](https://user-images.githubusercontent.com/7033231/127940482-ea11a8bd-2da4-4f0a-b19b-47d610786783.png)
+
+
+- O usuário visualiza uma lista de valores já inseridos
+
+![1 - visao geral](https://user-images.githubusercontent.com/7033231/127940471-fa81c164-de29-40a0-b986-19d2f92ec5c3.png)
+
+
+- O total é o cálculo de entradas e saídas
+
+
