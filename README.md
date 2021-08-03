@@ -38,7 +38,11 @@ npx cypress run
 npx cypress run --config viewportWidth=411,viewportHeight=823 
 ```
 
-Sobre a aplicação:
+
+
+## Sobre a aplicação:
+
+
 Site: https://devfinance-agilizei.netlify.app/
 
 Visão geral: A aplicação alvo do teste é um site de finanças, para inclusão de entradas (por exemplo salário) e saídas (por exemplo gastos).
